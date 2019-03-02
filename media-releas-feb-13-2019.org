@@ -1,9 +1,19 @@
-
 2019, 2, 3のメディアリリース
 
-* 世界の有機地域は史上最高を記録
-** 7000万ヘクタールの近くの農地は有機に
+* 世界の有機エリアは史上最高を記録
+** 7000万ヘクタールの近くの農地は有機になった
 ** 世界中の有機農業に関する最新の世界的データは、ドイツのニュルンベルクで開催された世界有数の有機食品見本市であるBIOFACHの有機農業研究所（FiBL）およびIFOAM  -  Organics Internationalによって発表、統計年鑑「世界の有機農業」は、2019年2月13日水曜日の午後4時から午後4時45分まで、NCC EastのHall Shanghaiにて開催
+
+（2019年2月13日,フリック/ニュルンベルク）2017年は、世界の有機農業にとって新たな記録年でした。 
+世界の有機農業に関する最新のFiBLの調査によると、有機農地は大幅に増加し、有機生産者数と有機小売売上高も継続的に増加し続け、
+181カ国からのデータが示すように史上最高に達した(2017年末の時点)。
+
+FiBLとIFOAM  -  Organics Internationalが発表した"The World of Organic Agriculture"の第20版は、過去数年間に見られた継続を
+前向きなトレンドを示しています。
+
+世界中の有機農業に関する年次調査は、スイス経済国家事務局（SECO）、国際貿易センター（ITC）、Sustainability Fund of Coop Switzerland、および
+BIOFACHフェアの主催者であるNürnbergMesseによってサポートされています。
+
 ** 世界の有機市場は世界的に成長を続けており、970億ドルに到達
 市場調査会社であるEcovia Intelligenceは、有機食品の世界市場は2017年に970億ドル（約900億ユーロ）に達したと推定しています。
 米国が400億ユーロで世界最大市場です。そして、ドイツ（100億ユーロ）、フランス（79億ユーロ）、中国（76億ユーロ）がそれに続きます。
@@ -66,7 +76,8 @@ https://statistics.fibl.org
 - Dr. Helga Willer, FiBL, Ackerstrasse 113, 5070 Frick, Switzerland Phone +41 (0)79 218 06 26, helga.willer@fibl.org, [[www.fibl.org]]
 - Louise Luttikholt, IFOAM – Organics International, Charles-de-Gaulle-Strasse 5, 53113 Bonn, Germany Phone +49 (0)160 8041557, Fax +49 (0)228 9265099, l.luttikholt@ifoam.bio,
 [[www.ifoam.bio]]
-Programme of the session “The World of Organic Agriculture – Statistics and Emerging Trends” Wednesday, February 13, 2019, 4:00 to 4:45 pm, Hall Shanghai (NCC East),
+セッションのプログラムである “The World of Organic Agriculture – Statistics and Emerging Trends” は2019年2月
+13日の4:00 から 4:45 にHall Shanghai (NCC East)にて開催されます。
 NürnbergMesse, Nürnberg
 -  Louise Luttikholt, IFOAM – Organics International, Moderator
 -  Dr. Monica Rubiolo, Swiss State Secretariat for Economic Affairs (SECO), Switzerland
