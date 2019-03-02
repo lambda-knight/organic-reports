@@ -90,7 +90,7 @@ https://statistics.fibl.org
 
 [[www.biofach.fibl.org/en/biofach-2019.html]]
 
-サポート機関
+** サポート機関
 - Swiss State Secretariat for Economic Affairs (SECO)
 - International Trade Centre (ITC)
 - Coop Sustainability Fund, Coop Switzerland
@@ -98,7 +98,7 @@ https://statistics.fibl.org
 
 このプレスリリースで述べられている見解は、SECO、ITC、またはNürnbergMesseの公式見解を反映するものではありません。
 
-参考文献
+** 参考文献
 
 - Helga Willer and Julia Lernoud (Eds.) (2019): The World of Organic Agriculture.
 - Statistics and Emerging Trends 2019. Research Institute of Organic Agriculture (FiBL), Frick and IFOAM – Organics International, Bonn.  [[www.organicworld.net/yearbook/yearbook-2019.html]] より入手可能
