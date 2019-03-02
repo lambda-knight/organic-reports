@@ -51,9 +51,9 @@ SECOのMonica Rubiolo博士とITCのJoseph Wozniakは、次のように述べて
 
 “The World of Organic Agriculture”の印刷版は 30ユーロ+ 送料で IFOAM - Organics Internationalの会員は20ユーロで
 https://shop.fibl.org/ (order number 2020) もしくは https://shop.ifoam.bio/ から注文できます。 
-そして www.organic-world.net/yearbook/yearbook-2019.html フリーダウンロードにて書籍は入手できます。
+そして [[www.organic-world.net/yearbook/yearbook-2019.html]] よりフリーダウンロードにて入手可能です。
 
-“The World of Organic Agriculture”とグラフおよびインフォグラフは www.organic-world.net/yearbook/yearbook-2019.html よりダウンロードできます。
+“The World of Organic Agriculture”とグラフおよびインフォグラフは [[www.organic-world.net/yearbook/yearbook-2019.html]] よりダウンロードできます。
 
 ** オンラインデータベース
 
@@ -63,13 +63,10 @@ https://statistics.fibl.org
 
 コンタクト先
 
-- Dr. Helga Willer, FiBL, Ackerstrasse 113, 5070 Frick, Switzerland
-Phone +41 (0)79 218 06 26, helga.willer@fibl.org, www.fibl.org
-- Louise Luttikholt, IFOAM – Organics International, Charles-de-Gaulle-Strasse 5, 53113 Bonn, Germany
-Phone +49 (0)160 8041557, Fax +49 (0)228 9265099, l.luttikholt@ifoam.bio,
-www.ifoam.bio
-Programme of the session “The World of Organic Agriculture – Statistics and Emerging Trends”
-Wednesday, February 13, 2019, 4:00 to 4:45 pm, Hall Shanghai (NCC East),
+- Dr. Helga Willer, FiBL, Ackerstrasse 113, 5070 Frick, Switzerland Phone +41 (0)79 218 06 26, helga.willer@fibl.org, [[www.fibl.org]]
+- Louise Luttikholt, IFOAM – Organics International, Charles-de-Gaulle-Strasse 5, 53113 Bonn, Germany Phone +49 (0)160 8041557, Fax +49 (0)228 9265099, l.luttikholt@ifoam.bio,
+[[www.ifoam.bio]]
+Programme of the session “The World of Organic Agriculture – Statistics and Emerging Trends” Wednesday, February 13, 2019, 4:00 to 4:45 pm, Hall Shanghai (NCC East),
 NürnbergMesse, Nürnberg
 -  Louise Luttikholt, IFOAM – Organics International, Moderator
 -  Dr. Monica Rubiolo, Swiss State Secretariat for Economic Affairs (SECO), Switzerland
@@ -80,7 +77,7 @@ NürnbergMesse, Nürnberg
 
 より詳しい情報は以下にあります。
 
-www.biofach.fibl.org/en/biofach-2019.html
+[[www.biofach.fibl.org/en/biofach-2019.html]]
 
 サポート機関
 - Swiss State Secretariat for Economic Affairs (SECO)
@@ -93,12 +90,11 @@ www.biofach.fibl.org/en/biofach-2019.html
 参考文献
 
 - Helga Willer and Julia Lernoud (Eds.) (2019): The World of Organic Agriculture.
-- Statistics and Emerging Trends 2019. Research Institute of Organic Agriculture (FiBL),
-- Frick and IFOAM – Organics International, Bonn. Available at www.organicworld.net/yearbook/yearbook-2019.html
+- Statistics and Emerging Trends 2019. Research Institute of Organic Agriculture (FiBL), Frick and IFOAM – Organics International, Bonn.  [[www.organicworld.net/yearbook/yearbook-2019.html]] より入手可能
 
 ** メディアリリースのオンライン提供
 このメディアリリースとグラフは次のオンラインでアクセス可能です。
-www.fibl.org/en/media.html.
+[[www.fibl.org/en/media.html]]
 
 * FiBLについて
 
@@ -106,7 +102,7 @@ www.fibl.org/en/media.html.
 機関の1つです。 FiBLの強みは、学際的な研究、農家や食品業界と共同で開発された技術革新、そして迅速な知識移転
 にです。 FiBLはさまざまな場所に約300人のスタッフを雇用しています。
 
-ホームページ: www.fibl.org
+ホームページ: [[www.fibl.org]]
 
 * 年鑑 "The World of Organic Agriculture"
 ** "The World of Organic Agriculture"について
@@ -117,8 +113,7 @@ www.fibl.org/en/media.html.
 
 そして、規格と法律、政策支援、および有機食品の世界市場に関するバックグラウンドの情報も提供されます。 この本には、オーガニックコットンに
 関する記事と、選択された自主持続可能性基準（VSS）によって認定された主要商品のレビューの章も含まれています。 
-詳しい情報とダウンロードはwww.organicworld.net/yearbook/yearbook-2019.html
-にあります。
+詳しい情報とダウンロード先は[[www.organicworld.net/yearbook/yearbook-2019.html]]です。
 
 この本には、オーガニックコットンに関する記事と、選定された自主的持続可能性基準（Voluntary Sustainability Standards- VSS）によって認定された
 主要商品のレビューの章も含まれています。
@@ -139,7 +134,7 @@ BIOFACHフェアの主催者であるNürnbergMesseにより支援されてい�
 
 印刷版は 30ユーロ+ 送料で IFOAM - Organics Internationalの会員は20ユーロで
  https://shop.fibl.org/chen (order number 1076) もしくは https://shop.ifoam.bio/ から注文できます。 
-そして www.organic-world.net/yearbook/yearbook-2019.html フリーダウンロードにて書籍は入手できます。
+そして [[www.organic-world.net/yearbook/yearbook-2019.html]]にてフリーダウンロードで入手できます。
 
 ** オンラインデータベース
 
