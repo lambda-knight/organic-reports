@@ -1,7 +1,7 @@
 2019, 2, 3のメディアリリース
 
 * 世界の有機エリアは史上最高を記録
-** 7000万ヘクタールの近くの農地は有機になった
+** 7000万ヘクタールの近くの有機農地化
 ** 世界中の有機農業に関する最新の世界的データは、ドイツのニュルンベルクで開催された世界有数の有機食品見本市であるBIOFACHの有機農業研究所（FiBL）およびIFOAM  -  Organics Internationalによって発表、統計年鑑「世界の有機農業」は、2019年2月13日水曜日の午後4時から午後4時45分まで、NCC EastのHall Shanghaiにて開催
 
 （2019年2月13日,フリック/ニュルンベルク）2017年は、世界の有機農業にとって新たな記録年でした。 
@@ -74,11 +74,10 @@ https://statistics.fibl.org
 ** コンタクト先
 
 - Dr. Helga Willer, FiBL, Ackerstrasse 113, 5070 Frick, Switzerland Phone +41 (0)79 218 06 26, helga.willer@fibl.org, [[www.fibl.org]]
-- Louise Luttikholt, IFOAM – Organics International, Charles-de-Gaulle-Strasse 5, 53113 Bonn, Germany Phone +49 (0)160 8041557, Fax +49 (0)228 9265099, l.luttikholt@ifoam.bio,
-[[www.ifoam.bio]]
+- Louise Luttikholt, IFOAM – Organics International, Charles-de-Gaulle-Strasse 5, 53113 Bonn, Germany Phone +49 (0)160 8041557, Fax +49 (0)228 9265099, l.luttikholt@ifoam.bio, [[www.ifoam.bio]]
 
-** セッションのプログラム “The World of Organic Agriculture – Statistics and Emerging Trends” 
-2019年2月13日の4:00 から 4:45 にNürnbergMesse, NürnbergのHall Shanghai (NCC East)にて開催されます
+** セッションのプログラム “The World of Organic Agriculture – Statistics and Emerging Trends” について
+2019年2月13日の4:00 から 4:45 にNürnbergMesse, NürnbergのHall Shanghai (NCC East)にて開催されます。
 -  Louise Luttikholt, IFOAM – Organics International, Moderator
 -  Dr. Monica Rubiolo, Swiss State Secretariat for Economic Affairs (SECO), Switzerland
 - Dr. Helga Willer, FiBL: The adventure of 20 years of data collection on organic agriculture
@@ -149,13 +148,6 @@ BIOFACHフェアの主催者であるNürnbergMesseにより支援されてい�
 
 ** オンラインデータベース
 
-ここにオンラインのデータベースがあります。
-https://statistics.fibl.org.
+オンラインのデータベースが https://statistics.fibl.org にあります。
 
 BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)にてコピーを手に入れてください。
-
-
-
-
-
-
