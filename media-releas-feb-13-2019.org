@@ -258,7 +258,7 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 
 [[./img/graph-14.png]]
 
-** 2004-2017における土地利用種別ごとの成長
+** 2004-2017における土地利用用途ごとの成長
 
 [[./img/graph-15.png]]
 
