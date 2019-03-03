@@ -202,8 +202,12 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 [[./img/table-1.png]]
 
 * グラフ
+** 2001-2017における有機食品、飲料の販売量と農場の成長
 
 [[./img/graph-1.png]]
+
+** 2001-2017における有機農業のデータのある国数の増加数
+
 [[./img/graph-2.png]]
 [[./img/graph-3.png]]
 [[./img/graph-4.png]]
@@ -220,16 +224,28 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 [[./img/graph-15.png]]
 
 * インフォグラフ
+** 2017年の世界の有機農業
 
 [[./img/info-graph-1.png]]
+
+** 2017年の有機小売
+
 [[./img/info-graph-2.png]]
+
+** 2017年の有機農地
+
 [[./img/info-graph-3.png]]
+
+** 2017年の有機生産者
+
 [[./img/info-graph-4.png]]
 
 * BIOFACH 2019のトックスに関連するセッション
-** Wednesday, 13 February 2019
+** 2019年2月13日(水)
+
 - The World of Organic Agriculture at BIOFACH 2019 4 pm to 4:45 pm, Hall Shanghai (NCC East)
 - The European market for organic food at BIOFACH 2019 5 pm to 6 pm, Hall Shanghai, (NCC East)
 
-** Thursday, 14 February 2019
+** 2019年2月14日(木)
+
 - Global Organic Market Overview - facts, trends and opportunities10 am to 11:30 am, Hall St. Petersburg (NCC East)
