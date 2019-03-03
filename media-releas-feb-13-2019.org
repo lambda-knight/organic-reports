@@ -167,3 +167,37 @@ BIOFACHフェアの主催者であるNürnbergMesseにより支援されてい�
 オンラインのデータベースが https://statistics.fibl.org にあります。
 
 BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)にてコピーを入手して下さい。
+
+* 主要な指数
+** 有機農業の主要指数とトップの国々
+
+[[./img/table-1.png
+]]
+* グラフ
+
+./img/graph-1.png
+./img/graph-2.png
+./img/graph-3.png
+./img/graph-4.png
+./img/graph-5.png
+./img/graph-6.png
+./img/graph-7.png
+./img/graph-8.png
+./img/graph-9.png
+./img/graph-10.png
+./img/graph-11.png
+./img/graph-12.png
+./img/graph-13.png
+./img/graph-14.png
+./img/graph-15.png
+
+* インフォグラフ
+
+
+* BIOFACH 2019のトックスに関連するセッション
+** Wednesday, 13 February 2019
+- The World of Organic Agriculture at BIOFACH 2019 4 pm to 4:45 pm, Hall Shanghai (NCC East)
+- The European market for organic food at BIOFACH 2019 5 pm to 6 pm, Hall Shanghai, (NCC East)
+
+** Thursday, 14 February 2019
+- Global Organic Market Overview - facts, trends and opportunities10 am to 11:30 am, Hall St. Petersburg (NCC East)
