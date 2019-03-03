@@ -74,9 +74,10 @@ SECOのMonica Rubiolo博士とITCのJoseph Wozniakは、次のように述べて
 “The World of Organic Agriculture”の印刷版は 30ユーロ+ 送料で IFOAM - Organics Internationalの会員は20ユーロで
 https://shop.fibl.org/ (order number 2020) もしくは https://shop.ifoam.bio/ から注文できます。 
 
-そして https://[[www.organic-world.net/yearbook/yearbook-2019.html]] よりフリーダウンロードにて入手可能です。
+        
+そしてhttps://www.organic-world.net/yearbook/yearbook-2019.html よりフリーダウンロードにて入手可能です。
 
-“The World of Organic Agriculture”とグラフおよびインフォグラフは https://[[www.organic-world.net/yearbook/yearbook-2019.html]] よりダウンロードできます。
+“The World of Organic Agriculture”とグラフおよびインフォグラフは https://www.organic-world.net/yearbook/yearbook-2019.html]] よりダウンロードできます。
 
 ** オンラインデータベース
 
@@ -138,7 +139,7 @@ FiBLの強みは、学際的な研究、農家や食品業界と共同で開発�
 そして、規格と法律、政策支援、および有機食品の世界市場に関するバックグラウンドの情報も提供されます。 この本には、オーガニックコットンに
 関する記事と、選択された自主持続可能性基準（VSS）によって認定された主要商品のレビューの章も含まれています。 
 
-詳しい情報とダウンロード先は[[https://www.organicworld.net/yearbook/yearbook-2019.html]]です。
+詳しい情報とダウンロード先は https://www.organicworld.net/yearbook/yearbook-2019.html です。
 
 この本には、オーガニックコットンに関する記事と、選定された自主的持続可能性基準（Voluntary Sustainability Standards- VSS）によって認定された
 主要商品のレビューの章も含まれています。
@@ -160,7 +161,7 @@ BIOFACHフェアの主催者であるNürnbergMesseにより支援されてい�
 
 印刷版は 30ユーロ+ 送料で IFOAM - Organics Internationalの会員は20ユーロで
  https://shop.fibl.org/chen (order number 1076) もしくは https://shop.ifoam.bio/ から注文できます。 
-そして [[https://www.organic-world.net/yearbook/yearbook-2019.html]]にてフリーダウンロードで入手できます。
+そして https://www.organic-world.net/yearbook/yearbook-2019.html にてフリーダウンロードで入手できます。
 
 ** オンラインデータベース
 
