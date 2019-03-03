@@ -193,6 +193,10 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 
 * インフォグラフ
 
+[[./img/info-graph-1.png]]
+[[./img/info-graph-2.png]]
+[[./img/info-graph-3.png]]
+[[./img/info-graph-4.png]]
 
 * BIOFACH 2019のトックスに関連するセッション
 ** Wednesday, 13 February 2019
