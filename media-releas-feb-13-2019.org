@@ -171,8 +171,8 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 * 主要な指数
 ** 有機農業の主要指数とトップの国々
 
-[[img/table-1.png
-]]
+[[./img/table-1.png]]
+
 * グラフ
 
 [[./img/graph-1.png]]
