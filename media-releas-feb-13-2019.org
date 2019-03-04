@@ -84,7 +84,7 @@ https://shop.fibl.org/ (order number 2020) もしくは https://shop.ifoam.bio/ 
 
 作物、市場、および国際貿易に関する詳細な説明を含む表、および解説が、FiBLの新しい統計Webサイトが以下にあります。
 
-Https://statistics.fibl.org
+https://statistics.fibl.org
 
 ** コンタクト先
 
@@ -102,7 +102,7 @@ Https://statistics.fibl.org
 
 より詳しい情報は以下にあります。
 
-https://[[www.biofach.fibl.org/en/biofach-2019.html]]
+https://www.biofach.fibl.org/en/biofach-2019.html
 
 ** サポート機関
 - Swiss State Secretariat for Economic Affairs (SECO)
@@ -119,7 +119,7 @@ https://[[www.biofach.fibl.org/en/biofach-2019.html]]
 
 ** メディアリリースのオンライン提供
 このメディアリリースとグラフは次のオンラインでアクセス可能です。
-https://[[www.fibl.org/en/media.html]]
+[[https://www.fibl.org/en/media.html]]
 
 * FiBLについて
 
