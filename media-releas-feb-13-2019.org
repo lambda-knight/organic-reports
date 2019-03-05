@@ -305,11 +305,11 @@ BIOFACH in Hall 1, Stands 1-553（FiBL） 1-451 (IFOAM Organics International)�
 
 
 * インフォグラフ
-** 2017年の世界の有機農業
+** 世界の有機農業2017
 
 [[./img/info-graph-1.png]]
 
-** 2017年の有機小売
+** 有機の小売2017
 
 [[./img/info-graph-2.png]]
 
